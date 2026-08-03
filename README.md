@@ -67,11 +67,6 @@
 <a href="https://github.com/nallamothujessy1"><img src="https://img.shields.io/badge/GitHub-8b5cf6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Meghamittal0920&color=ff7eb6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
-
-<br/><br/>
 
 *⭐️ Always learning, always building.* 💗
 
